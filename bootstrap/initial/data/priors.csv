@@ -1,4 +1,4 @@
-stock,initial_state, initial_state_cv, terminal_state, terminal_state_cv
+stock,initial_state,initial_state_cv,terminal_state,terminal_state_cv
 Scomber colias,0.75,0.1,0.43,0.31
 Zygochlamys patagonica,0.75,0.1,0.3,0.31
 Rajiformes,0.75,0.1,0.43,0.31
